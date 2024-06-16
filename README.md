@@ -1,6 +1,6 @@
 <h1>Food App Screenshot</h1>
 
-<h3>RoomDB, Retorfit, RestFull api, DataBinding, MVVM, ViewModel, Navigation Component</h3>
+<h3>RoomDB, Retorfit, api, DataBinding, MVVM, ViewModel, Navigation Component</h3>
 
 <p float="left">
     <img src="./food-screen/a1.jpg" height="350" width="200">
