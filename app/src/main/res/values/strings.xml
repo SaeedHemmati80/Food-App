@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Easy Food</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="easy_food">Easy Food</string>
+    <string name="loading">Loading...</string>
+    <string name="category_beef">Category : Beef</string>
+    <string name="area_palestine">Area : Palestine</string>
+    <string name="instructions">- Instructions :</string>
+    <string name="over_popular_items">Popular items</string>
+    <string name="categories">Categories</string>
+    <string name="what_would_you_like_to_eat">What would you like to eat</string>
+    <string name="home">Home</string>
+    <string name="search_meals">Search Meals...</string>
+</resources>

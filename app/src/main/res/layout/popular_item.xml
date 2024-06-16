@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="@dimen/_180sdp"
+    android:layout_height="@dimen/_90sdp"
+    android:elevation="@dimen/_3sdp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardUseCompatPadding="true"
+    app:cardCornerRadius="@dimen/_10sdp">
+
+
+    <ImageView
+        android:id="@+id/img_popular_meal_item"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        tools:srcCompat="@tools:sample/avatars" />
+</androidx.cardview.widget.CardView>
